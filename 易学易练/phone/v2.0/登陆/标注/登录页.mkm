@@ -1,0 +1,62 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="371" y="0" color="16711680" length="106" direction="3"/>
+    <LengthMark x="374" y="284" color="16711680" length="24" direction="3"/>
+    <LengthMark x="575" y="0" color="16711680" length="486" direction="3"/>
+    <LengthMark x="112" y="517" color="16711680" length="52" direction="3"/>
+    <LengthMark x="106" y="523" color="16711680" length="52" direction="12"/>
+    <LengthMark x="84" y="569" color="16711680" length="22" direction="12"/>
+    <LengthMark x="75" y="464" color="16711680" length="600" direction="12"/>
+    <LengthMark x="101" y="608" color="16711680" length="14" direction="12"/>
+    <LengthMark x="143" y="607" color="16711680" length="14" direction="12"/>
+    <LengthMark x="101" y="595" color="16711680" length="548" direction="12"/>
+    <LengthMark x="75" y="595" color="16711680" length="26" direction="12"/>
+    <LengthMark x="580" y="517" color="16711680" length="86" direction="12"/>
+    <LengthMark x="158" y="542" color="16711680" length="22" direction="12"/>
+    <LengthMark x="84" y="508" color="16711680" length="96" direction="12"/>
+    <LengthMark x="598" y="555" color="16711680" length="52" direction="12"/>
+    <LengthMark x="643" y="517" color="16711680" length="52" direction="3"/>
+    <LengthMark x="205" y="632" color="16711680" length="70" direction="3"/>
+    <LengthMark x="59" y="486" color="16711680" length="120" direction="3"/>
+    <LengthMark x="188" y="606" color="16711680" length="4" direction="3"/>
+    <LengthMark x="167" y="730" color="16711680" length="20" direction="3"/>
+    <LengthMark x="174" y="619" color="16711680" length="96" direction="3"/>
+    <LengthMark x="203" y="759" color="16711680" length="86" direction="3"/>
+    <LengthMark x="222" y="860" color="16711680" length="20" direction="3"/>
+    <LengthMark x="369" y="916" color="16711680" length="12" direction="12"/>
+    <LengthMark x="172" y="970" color="16711680" length="120" direction="3"/>
+    <LengthMark x="335" y="1058" color="16711680" length="32" direction="3"/>
+    <LengthMark x="267" y="1134" color="16711680" length="12" direction="12"/>
+    <LengthMark x="242" y="1123" color="16711680" length="20" direction="12"/>
+    <LengthMark x="112" y="1108" color="16711680" length="64" direction="3"/>
+    <LengthMark x="100" y="1159" color="16711680" length="64" direction="12"/>
+    <LengthMark x="80" y="1134" color="16711680" length="20" direction="12"/>
+    <ColorMark x="244" y="530" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="300" y="655" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="356" y="790" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="267" y="911" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="517" y="916" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="422" y="1034" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="422" y="1129" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="644" y="1127" color="16711680" offsetX="33" offsetY="16" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="205" y="1151" color="16711680" offsetX="55" offsetY="55" defaultDirection="10" colorSystem="hex"/>
+    <TextMark x="372" y="534" color="16711680" offsetX="129" offsetY="129" defaultDirection="9" direction="9" textMaxWidth="158" text="44px，Metro Bold字体，&#xD;格式3-4-4，垂直投影，2px，投影色值a37a00"/>
+    <LengthMark x="180" y="552" color="16711680" length="30" direction="12"/>
+    <LengthMark x="180" y="647" color="16711680" length="30" direction="12"/>
+    <TextMark x="340" y="672" color="16711680" offsetX="58" offsetY="13" defaultDirection="10" direction="10" textMaxWidth="241" text="默认文本，28px，系统普通字体，&#xD;垂直投影，2px，投影色值a37a00"/>
+    <TextMark x="413" y="808" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="217" text="40px，方正字体，中间一空格，&#xD;垂直投影，2px，投影色值ffff99"/>
+    <TextMark x="234" y="938" color="16711680" offsetX="25" offsetY="22" defaultDirection="10" direction="10" textMaxWidth="191" text="30px，方正字体，&#xD;垂直投影，2px，投影色值ffff99"/>
+    <TextMark x="509" y="935" color="16711680" offsetX="33" offsetY="28" defaultDirection="10" direction="10" textMaxWidth="170" text="30px，方正字体，&#xD;垂直投影，2px，投影色值33ffff"/>
+    <TextMark x="463" y="1051" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="185" text="30px，系统普通"/>
+    <TextMark x="190" y="1156" color="16711680" offsetX="97" offsetY="97" defaultDirection="10" direction="10" textMaxWidth="128" text="34px，系统加粗"/>
+    <TextMark x="421" y="1179" color="16711680" offsetX="63" offsetY="63" defaultDirection="10" direction="10" textMaxWidth="100" text="鼠标按下效果"/>
+    <TextMark x="452" y="556" color="16711680" offsetX="39" offsetY="25" defaultDirection="10" direction="10" textMaxWidth="194" text="默认文本为“请输入手机号”，&#xD;样式看下面"/>
+    <TextMark x="20" y="380" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="164" text="背景图片去“诊断”里面找"/>
+    <TextMark x="474" y="261" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="说明..."/>
+    <TextMark x="610" y="610" color="16711680" offsetX="18" offsetY="12" defaultDirection="10" direction="10" textMaxWidth="100" text="虚线：14px，间距14px，高度4px"/>
+    <TextMark x="538" y="655" color="16711680" offsetX="85" offsetY="64" defaultDirection="10" direction="10" textMaxWidth="100" text="默认输入框"/>
+    <TextMark x="525" y="549" color="16711680" offsetX="55" offsetY="55" defaultDirection="5" direction="5" textMaxWidth="100" text="激活输入框"/>
+    <LengthMark x="180" y="524" color="16711680" length="398" direction="12"/>
+    <LengthMark x="218" y="508" color="16711680" length="70" direction="3"/>
+  </Marks>
+</MKM>

@@ -1,0 +1,16 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="298" y="504" color="16711680" offsetX="88" offsetY="68" defaultDirection="9" direction="9" textMaxWidth="100" text="同【出题-退出】"/>
+    <LengthMark x="257" y="577" color="16711680" length="26" direction="3"/>
+    <LengthMark x="79" y="628" color="16711680" length="30" direction="12"/>
+    <LengthMark x="641" y="625" color="16711680" length="30" direction="12"/>
+    <LengthMark x="109" y="616" color="16711680" length="532" direction="12"/>
+    <LengthMark x="471" y="603" color="16711680" length="72" direction="3"/>
+    <LengthMark x="109" y="645" color="16711680" length="20" direction="12"/>
+    <LengthMark x="367" y="675" color="16711680" length="28" direction="3"/>
+    <ColorMark x="214" y="640" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="169" y="644" color="16711680" offsetX="32" offsetY="32" defaultDirection="10" direction="10" textMaxWidth="128" text="34px，系统加粗，&#xD;垂直投影2px，投影色值a37a00"/>
+    <LengthMark x="69" y="781" color="16711680" length="612" direction="12"/>
+    <LengthMark x="595" y="497" color="16711680" length="332" direction="3"/>
+  </Marks>
+</MKM>

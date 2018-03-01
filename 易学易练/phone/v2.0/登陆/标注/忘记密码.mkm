@@ -1,0 +1,18 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="497" y="133" color="16711680" length="50" direction="3"/>
+    <TextMark x="590" y="206" color="16711680" offsetX="36" offsetY="36" defaultDirection="9" direction="9" textMaxWidth="100" text="同登录页手机号"/>
+    <TextMark x="524" y="472" color="16711680" offsetX="52" offsetY="35" defaultDirection="9" direction="9" textMaxWidth="163" text="通登录页“登录”按钮"/>
+    <LengthMark x="646" y="355" color="16711680" length="20" direction="12"/>
+    <LengthMark x="646" y="372" color="16711680" length="2" direction="12"/>
+    <LengthMark x="574" y="398" color="16711680" length="2" direction="3"/>
+    <LengthMark x="450" y="328" color="16711680" length="70" direction="3"/>
+    <LengthMark x="180" y="331" color="16711680" length="218" direction="12"/>
+    <LengthMark x="398" y="369" color="16711680" length="2" direction="12"/>
+    <LengthMark x="328" y="398" color="16711680" length="2" direction="3"/>
+    <TextMark x="473" y="349" color="16711680" offsetX="55" offsetY="55" defaultDirection="9" direction="9" textMaxWidth="125" text="【不可用状态】28px，系统普通，&#xD;垂直投影，2px，&#xD;投影色值ffff99"/>
+    <TextMark x="532" y="861" color="16711680" offsetX="154" offsetY="154" defaultDirection="5" direction="5" textMaxWidth="130" text="【可用状态】28px，色值805500&#xD;系统普通，&#xD;垂直投影，2px，&#xD;投影色值ffff99"/>
+    <LengthMark x="428" y="363" color="16711680" length="218" direction="12"/>
+    <ColorMark x="585" y="370" color="16711680" offsetX="53" offsetY="24" defaultDirection="9" colorSystem="hex"/>
+  </Marks>
+</MKM>

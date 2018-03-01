@@ -1,0 +1,19 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="413" y="503" color="16711680" offsetX="94" offsetY="65" defaultDirection="9" direction="9" textMaxWidth="139" text="同【出题-退出】"/>
+    <LengthMark x="79" y="633" color="16711680" length="30" direction="12"/>
+    <LengthMark x="165" y="635" color="16711680" length="12" direction="12"/>
+    <LengthMark x="640.5" y="630" color="16711680" length="30" direction="12"/>
+    <LengthMark x="641" y="734" color="16711680" length="30" direction="12"/>
+    <LengthMark x="244" y="620" color="16711680" length="58" direction="12"/>
+    <LengthMark x="256" y="603" color="16711680" length="72" direction="3"/>
+    <LengthMark x="201" y="577" color="16711680" length="26" direction="3"/>
+    <LengthMark x="109" y="681" color="16711680" length="532" direction="12"/>
+    <LengthMark x="473" y="675" color="16711680" length="28" direction="3"/>
+    <ColorMark x="139" y="626" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="130" y="652" color="16711680" offsetX="47" offsetY="41" defaultDirection="10" direction="10" textMaxWidth="163" text="44px，Metro Bold字体，垂直投影2px，投影色值a37a00"/>
+    <TextMark x="438" y="619" color="16711680" offsetX="38" offsetY="31" defaultDirection="9" direction="9" textMaxWidth="222" text="8个输入框在532px范围内均分"/>
+    <LengthMark x="570" y="497" color="16711680" length="332" direction="3"/>
+    <LengthMark x="69" y="779" color="16711680" length="612" direction="12"/>
+  </Marks>
+</MKM>

@@ -1,0 +1,20 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="229" y="944" color="16711680" length="40" direction="12"/>
+    <LengthMark x="179" y="883" color="16711680" length="20" direction="3"/>
+    <LengthMark x="182" y="1013" color="16711680" length="20" direction="3"/>
+    <TextMark x="558" y="907" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="217" text="点击状态、不透明度50%"/>
+    <TextMark x="579" y="1289" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="底部有阴影渐变"/>
+    <LengthMark x="1237" y="702" color="16711680" length="36" direction="3"/>
+    <LengthMark x="1682" y="694" color="16711680" length="20" direction="3"/>
+    <LengthMark x="1208" y="648" color="16711680" length="110" direction="12"/>
+    <LengthMark x="1213" y="590" color="16711680" length="110" direction="3"/>
+    <LengthMark x="1436" y="500" color="16711680" length="24" direction="3"/>
+    <LengthMark x="1422" y="554" color="16711680" length="38" direction="3"/>
+    <LengthMark x="1285" y="994" color="16711680" length="36" direction="3"/>
+    <TextMark x="1370" y="1247" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="155" text="纯黑不透明度50%"/>
+    <LengthMark x="457" y="1030" color="16711680" length="110" direction="3"/>
+    <LengthMark x="419" y="1064" color="16711680" length="110" direction="12"/>
+    <TextMark x="1466" y="438" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="剧中"/>
+  </Marks>
+</MKM>

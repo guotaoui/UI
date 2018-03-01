@@ -1,0 +1,32 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="416" y="243" color="16711680" offsetX="107" offsetY="47" defaultDirection="9" direction="9" textMaxWidth="133" text="同章节/考点 弹层&#xD;"/>
+    <LengthMark x="730" y="183" color="16711680" length="20" direction="12"/>
+    <LengthMark x="730" y="81" color="16711680" length="20" direction="12"/>
+    <LengthMark x="0" y="178" color="16711680" length="32" direction="12"/>
+    <LengthMark x="359" y="127" color="16711680" length="112" direction="3"/>
+    <LengthMark x="69" y="276" color="16711680" length="610" direction="12"/>
+    <LengthMark x="567" y="243" color="16711680" length="50" direction="3"/>
+    <LengthMark x="647" y="345" color="16711680" length="24" direction="12"/>
+    <LengthMark x="569" y="341" color="16711680" length="20" direction="12"/>
+    <LengthMark x="79" y="348" color="16711680" length="20" direction="12"/>
+    <LengthMark x="140" y="302" color="16711680" length="3" direction="3"/>
+    <LengthMark x="158" y="385" color="16711680" length="3" direction="3"/>
+    <LengthMark x="115" y="305" color="16711680" length="80" direction="3"/>
+    <LengthMark x="99" y="363" color="16711680" length="80" direction="12"/>
+    <LengthMark x="179" y="344" color="16711680" length="20" direction="12"/>
+    <LengthMark x="296" y="302" color="16711680" length="86" direction="3"/>
+    <LengthMark x="48" y="293" color="16711680" length="184" direction="3"/>
+    <LengthMark x="164" y="477" color="16711680" length="4" direction="3"/>
+    <LengthMark x="391" y="392" color="16711680" length="70" direction="3"/>
+    <LengthMark x="79" y="422" color="16711680" length="30" direction="12"/>
+    <LengthMark x="209" y="424" color="16711680" length="14" direction="12"/>
+    <LengthMark x="119" y="408" color="16711680" length="36" direction="3"/>
+    <LengthMark x="109" y="452" color="16711680" length="100" direction="12"/>
+    <LengthMark x="56" y="669" color="16711680" length="110" direction="3"/>
+    <LengthMark x="288" y="678" color="16711680" length="86" direction="3"/>
+    <LengthMark x="410" y="388" color="16711680" length="4" direction="3"/>
+    <LengthMark x="372" y="462" color="16711680" length="6" direction="3"/>
+    <LengthMark x="455" y="392" color="16711680" length="76" direction="3"/>
+  </Marks>
+</MKM>

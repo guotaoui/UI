@@ -1,0 +1,25 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="1463" y="319" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="复合体"/>
+    <LengthMark x="1478" y="423" color="16711680" length="70" direction="3"/>
+    <LengthMark x="1375" y="613" color="16711680" length="50" direction="3"/>
+    <LengthMark x="1403" y="711" color="16711680" length="30" direction="12"/>
+    <LengthMark x="1161" y="711" color="16711680" length="30" direction="12"/>
+    <LengthMark x="1269" y="667" color="16711680" length="20" direction="3"/>
+    <LengthMark x="1281" y="758" color="16711680" length="20" direction="3"/>
+    <TextMark x="1660" y="736" color="16711680" offsetX="17" offsetY="16" defaultDirection="10" direction="10" textMaxWidth="183" text="苹方-简 常规体 24px&#xD;色值：333333"/>
+    <LengthMark x="1155" y="598" color="16711680" length="280" direction="12"/>
+    <LengthMark x="1228" y="493" color="16711680" length="120" direction="3"/>
+    <TextMark x="1298" y="505" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="行高28px"/>
+    <TextMark x="1269" y="469" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="146" text="屏幕对半分剧中"/>
+    <TextMark x="1610" y="483" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="146" text="屏幕对半分剧中"/>
+    <TextMark x="1410" y="658" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="点击状态不透明度50%"/>
+    <TextMark x="1213" y="821" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="256" text="屏幕左右可单独滑动"/>
+    <LengthMark x="1362" y="1293" color="16711680" length="24" direction="3"/>
+    <TextMark x="1404" y="1299" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="有阴影"/>
+    <TextMark x="1572" y="818" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="256" text="屏幕左右可单独滑动"/>
+    <ColorMark x="1452" y="858" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="1375" y="553" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="183" text="苹方-简 常规体 24px&#xD;色值：333333"/>
+    <TextMark x="1362" y="912" color="16711680" offsetX="40" offsetY="33" defaultDirection="10" direction="10" textMaxWidth="183" text="苹方-简 常规体 24px&#xD;色值：333333"/>
+  </Marks>
+</MKM>

@@ -1,0 +1,20 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="332" y="574" color="16711680" offsetX="100" offsetY="69" defaultDirection="9" direction="9" textMaxWidth="100" text="垂直居中"/>
+    <LengthMark x="69" y="608" color="16711680" length="612" direction="12"/>
+    <LengthMark x="88" y="574" color="16711680" length="168" direction="3"/>
+    <LengthMark x="103" y="636" color="16711680" length="44" direction="12"/>
+    <LengthMark x="79" y="699" color="16711680" length="90" direction="12"/>
+    <LengthMark x="169" y="675" color="16711680" length="4" direction="12"/>
+    <ColorMark x="172" y="605" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="169" y="587" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="173" y="717" color="16711680" length="498" direction="12"/>
+    <LengthMark x="312" y="650" color="16711680" length="14" direction="3"/>
+    <LengthMark x="454" y="584" color="16711680" length="40" direction="3"/>
+    <LengthMark x="460" y="692" color="16711680" length="40" direction="3"/>
+    <LengthMark x="612" y="429" color="16711680" length="20" direction="3"/>
+    <TextMark x="216" y="683" color="16711680" offsetX="100" offsetY="100" defaultDirection="10" direction="10" textMaxWidth="147" text="30px，系统加粗，&#xD;垂直投影，2px，&#xD;投影色值ffff99&#xD;"/>
+    <ColorMark x="275" y="625" color="16711680" offsetX="33" offsetY="33" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="211" y="471" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="154" text="【遮罩】&#xD;纯黑不透明度60%"/>
+  </Marks>
+</MKM>

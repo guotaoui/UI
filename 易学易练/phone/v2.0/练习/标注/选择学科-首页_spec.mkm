@@ -1,0 +1,21 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <ColorMark x="49" y="79" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="39" y="120" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="90" y="129" color="16711680" offsetX="30" offsetY="4" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="404" y="74" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="249" y="240" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="419" y="226" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="510" y="1230" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="378" y="1237" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="621" y="308" color="16711680" offsetX="50" offsetY="1" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="367" y="0" color="16711680" length="64" direction="3"/>
+    <TextMark x="410" y="91" color="16711680" offsetX="38" offsetY="9" defaultDirection="10" direction="10" textMaxWidth="185" text="36px，特殊字体，替换方案“苹方-中粗体”投影90度，距离2px，色值33ffff"/>
+    <TextMark x="287" y="260" color="16711680" offsetX="39" offsetY="20" defaultDirection="10" direction="10" textMaxWidth="172" text="40px，特殊字体，替换方案“苹方-中粗体”投影90度，距离2px，色值ffff99"/>
+    <TextMark x="478" y="250" color="16711680" offsetX="84" offsetY="12" defaultDirection="10" direction="10" textMaxWidth="176" text="30px，字体“苹方-中黑体”投影90度，距离2px，色值ffff99"/>
+    <RectMark x="371" y="340" color="16711680" offsetX="264" offsetY="740"/>
+    <TextMark x="391" y="471" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="215" text="该范围全部套用第一个button样式，&#xD;目的为改为当前页面在选择教材之后，仍然可以重新选择教材"/>
+    <TextMark x="174" y="1272" color="16711680" offsetX="97" offsetY="97" defaultDirection="9" direction="9" textMaxWidth="207" text="32px，字体“苹方-中黑体”投影90度，距离2px，色值ffff99"/>
+    <TextMark x="421" y="1274" color="16711680" offsetX="122" offsetY="111" defaultDirection="9" direction="9" textMaxWidth="197" text="32px，“苹方-中粗体”投影90度，距离2px，色值33ffff"/>
+  </Marks>
+</MKM>

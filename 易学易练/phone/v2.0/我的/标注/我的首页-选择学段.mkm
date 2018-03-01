@@ -1,0 +1,18 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="648" y="243" color="16711680" length="24" direction="12"/>
+    <LengthMark x="585" y="210" color="16711680" length="56" direction="3"/>
+    <LengthMark x="79" y="242" color="16711680" length="40" direction="12"/>
+    <ColorMark x="169" y="232" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="169" y="245" color="16711680" offsetX="45" offsetY="12" defaultDirection="10" direction="10" textMaxWidth="197" text="34px，系统加粗，垂直投影2px，投影色值ffff99"/>
+    <LengthMark x="370" y="132" color="16711680" length="50" direction="3"/>
+    <LengthMark x="70" y="170" color="16711680" length="610" direction="12"/>
+    <LengthMark x="44" y="182" color="16711680" length="122" direction="3"/>
+    <LengthMark x="109" y="304" color="16711680" length="4" direction="3"/>
+    <LengthMark x="466" y="192" color="16711680" length="96" direction="3"/>
+    <LengthMark x="491" y="288" color="16711680" length="6" direction="3"/>
+    <LengthMark x="522" y="192" color="16711680" length="102" direction="3"/>
+    <LengthMark x="0" y="359" color="16711680" length="70" direction="12"/>
+    <TextMark x="611" y="253" color="16711680" offsetX="109" offsetY="109" defaultDirection="6" direction="6" textMaxWidth="191" text="选中icon同【选择地区】"/>
+  </Marks>
+</MKM>

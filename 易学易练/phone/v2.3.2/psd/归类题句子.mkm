@@ -1,0 +1,40 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="509" y="355" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="复合体"/>
+    <LengthMark x="252" y="423" color="16711680" length="70" direction="3"/>
+    <LengthMark x="261" y="613" color="16711680" length="50" direction="3"/>
+    <LengthMark x="194" y="783" color="16711680" length="100" direction="3"/>
+    <LengthMark x="273" y="886" color="16711680" length="20" direction="3"/>
+    <LengthMark x="238" y="975" color="16711680" length="20" direction="3"/>
+    <LengthMark x="276" y="1021" color="16711680" length="32" direction="12"/>
+    <TextMark x="430" y="1014" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="剧中显示"/>
+    <TextMark x="1481" y="528" color="16711680" offsetX="117" offsetY="58" defaultDirection="9" direction="9" textMaxWidth="237" text="苹方-简 常规体 30px&#xD;色值：333333&#xD;"/>
+    <LengthMark x="452" y="770" color="16711680" length="230" direction="12"/>
+    <LengthMark x="629" y="664" color="16711680" length="120" direction="3"/>
+    <LengthMark x="348" y="719" color="16711680" length="102" direction="12"/>
+    <LengthMark x="264" y="1036" color="16711680" length="10" direction="12"/>
+    <LengthMark x="161" y="998" color="16711680" length="18" direction="3"/>
+    <LengthMark x="166" y="1045" color="16711680" length="18" direction="3"/>
+    <TextMark x="275" y="690" color="16711680" offsetX="55" offsetY="55" defaultDirection="9" direction="9" textMaxWidth="237" text="苹方-简 常规体 30px&#xD;色值：333333&#xD;"/>
+    <LengthMark x="1175" y="601" color="16711680" length="600" direction="12"/>
+    <LengthMark x="1233" y="497" color="16711680" length="428" direction="3"/>
+    <LengthMark x="1435" y="500" color="16711680" length="24" direction="3"/>
+    <LengthMark x="1423" y="553" color="16711680" length="46" direction="3"/>
+    <LengthMark x="1412" y="670" color="16711680" length="36" direction="3"/>
+    <LengthMark x="1425" y="775" color="16711680" length="36" direction="3"/>
+    <LengthMark x="1413" y="881" color="16711680" length="38" direction="3"/>
+    <LengthMark x="1365" y="756" color="16711680" length="36" direction="12"/>
+    <LengthMark x="131" y="1039" color="16711680" length="10" direction="12"/>
+    <LengthMark x="1352" y="766" color="16711680" length="10" direction="12"/>
+    <LengthMark x="1220" y="738" color="16711680" length="10" direction="12"/>
+    <LengthMark x="1318" y="754" color="16711680" length="18" direction="3"/>
+    <LengthMark x="1263" y="708" color="16711680" length="18" direction="3"/>
+    <TextMark x="353" y="1001" color="16711680" offsetX="55" offsetY="55" defaultDirection="9" direction="9" textMaxWidth="237" text="苹方-简 常规体 30px&#xD;色值：333333&#xD;"/>
+    <TextMark x="1250" y="621" color="16711680" offsetX="57" offsetY="31" defaultDirection="10" direction="10" textMaxWidth="237" text="苹方-简 常规体 30px&#xD;色值：333333&#xD;"/>
+    <LengthMark x="1378" y="678" color="16711680" length="56" direction="3"/>
+    <LengthMark x="1333" y="712" color="16711680" length="56" direction="12"/>
+    <TextMark x="1395" y="428" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="剧中"/>
+    <LengthMark x="24" y="986" color="16711680" length="104" direction="12"/>
+    <LengthMark x="720" y="1047" color="16711680" length="54" direction="12"/>
+  </Marks>
+</MKM>

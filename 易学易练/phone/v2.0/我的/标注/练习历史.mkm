@@ -1,0 +1,9 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="418" y="184" color="16711680" offsetX="36" offsetY="36" defaultDirection="9" direction="9" textMaxWidth="100" text="同【我的收藏】"/>
+    <TextMark x="507" y="241" color="16711680" offsetX="55" offsetY="21" defaultDirection="5" direction="5" textMaxWidth="159" text="26px，系统普通，垂直投影2px，投影色值ffff99"/>
+    <ColorMark x="525" y="225" color="16711680" offsetX="23" offsetY="23" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="570" y="234" color="16711680" length="20" direction="12"/>
+    <LengthMark x="647" y="236" color="16711680" length="24" direction="12"/>
+  </Marks>
+</MKM>

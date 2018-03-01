@@ -1,0 +1,38 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="318" y="132" color="16711680" length="50" direction="3"/>
+    <LengthMark x="69" y="173" color="16711680" length="612" direction="12"/>
+    <LengthMark x="148" y="192" color="16711680" length="20" direction="3"/>
+    <LengthMark x="79" y="255" color="16711680" length="30" direction="12"/>
+    <LengthMark x="163" y="326" color="16711680" length="16" direction="3"/>
+    <LengthMark x="137" y="322" color="16711680" length="4" direction="3"/>
+    <LengthMark x="109" y="271" color="16711680" length="110" direction="12"/>
+    <LengthMark x="188" y="212" color="16711680" length="110" direction="3"/>
+    <LengthMark x="132" y="220" color="16711680" length="94" direction="3"/>
+    <LengthMark x="117" y="236" color="16711680" length="94" direction="12"/>
+    <LengthMark x="52" y="182" color="16711680" length="176" direction="3"/>
+    <LengthMark x="219" y="255" color="16711680" length="30" direction="12"/>
+    <LengthMark x="647" y="269" color="16711680" length="24" direction="12"/>
+    <LengthMark x="108" y="358" color="16711680" length="4" direction="3"/>
+    <LengthMark x="173" y="359" color="16711680" length="15" direction="12"/>
+    <LengthMark x="215" y="359" color="16711680" length="15" direction="12"/>
+    <LengthMark x="79" y="420" color="16711680" length="40" direction="12"/>
+    <LengthMark x="560" y="415" color="16711680" length="30" direction="12"/>
+    <LengthMark x="647" y="415" color="16711680" length="24" direction="12"/>
+    <LengthMark x="561" y="547" color="16711680" length="30" direction="12"/>
+    <LengthMark x="647" y="697" color="16711680" length="24" direction="12"/>
+    <LengthMark x="571" y="828" color="16711680" length="20" direction="12"/>
+    <LengthMark x="647" y="824" color="16711680" length="24" direction="12"/>
+    <LengthMark x="570" y="956" color="16711680" length="20" direction="12"/>
+    <LengthMark x="647" y="954" color="16711680" length="24" direction="12"/>
+    <TextMark x="305" y="266" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="195" text="34px，系统加粗，垂直投影2px，投影色值ffff99&#xD;"/>
+    <ColorMark x="288" y="255" color="16711680" offsetX="44" offsetY="33" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="171" y="412" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="185" text="34px，系统加粗，垂直投影2px，投影色值ffff99&#xD;"/>
+    <TextMark x="492" y="427" color="16711680" offsetX="104" offsetY="18" defaultDirection="6" direction="6" textMaxWidth="183" text="28px，系统普通，垂直投影2px，投影色值ffff99&#xD;"/>
+    <TextMark x="511" y="554" color="16711680" offsetX="108" offsetY="5" defaultDirection="5" direction="5" textMaxWidth="198" text="28px，系统普通，垂直投影2px，投影色值ffff99&#xD;&#xD;"/>
+    <TextMark x="544" y="690" color="16711680" offsetX="161" offsetY="10" defaultDirection="5" direction="5" textMaxWidth="100" text="28px，系统普通，垂直投影2px，投影色值ffff99&#xD;"/>
+    <TextMark x="431" y="821" color="16711680" offsetX="92" offsetY="17" defaultDirection="5" direction="5" textMaxWidth="148" text="24px，系统普通，垂直投影2px，投影色值ffff99&#xD;"/>
+    <TextMark x="267" y="945" color="16711680" offsetX="46" offsetY="34" defaultDirection="9" direction="9" textMaxWidth="324" text="24px，系统普通，垂直投影2px，投影色值ffff99"/>
+    <LengthMark x="561" y="698" color="16711680" length="30" direction="12"/>
+  </Marks>
+</MKM>

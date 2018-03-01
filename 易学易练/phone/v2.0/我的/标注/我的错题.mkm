@@ -1,0 +1,6 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="422" y="162" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="同【我的收藏】"/>
+    <ColorMark x="534" y="225" color="16711680" offsetX="32" offsetY="12" defaultDirection="5" colorSystem="hex"/>
+  </Marks>
+</MKM>

@@ -1,0 +1,27 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="1841" y="138" color="16711680" length="60" direction="3"/>
+    <LengthMark x="1107" y="403" color="16711680" length="32" direction="3"/>
+    <TextMark x="3196" y="751" color="16711680" offsetX="37" offsetY="37" defaultDirection="9" direction="9" textMaxWidth="321" text="分割线：624*1px&#xD;色值：＃eceef2"/>
+    <LengthMark x="1225" y="717" color="16711680" length="22" direction="12"/>
+    <LengthMark x="1225" y="489" color="16711680" length="22" direction="12"/>
+    <TextMark x="4891" y="438" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="220" text="苹方 简 常规&#xD;字号：22点&#xD;色值：＃a1a7ae&#xD;如果此处没有时间限制，则不显示"/>
+    <LengthMark x="970" y="138" color="16711680" length="60" direction="3"/>
+    <LengthMark x="1174" y="369" color="16711680" length="32" direction="3"/>
+    <LengthMark x="1935" y="457" color="16711680" length="32" direction="3"/>
+    <TextMark x="2888" y="1154" color="16711680" offsetX="35" offsetY="19" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：28点&#xD;色值：＃0067be"/>
+    <LengthMark x="1914" y="689" color="16711680" length="32" direction="3"/>
+    <LengthMark x="2005" y="368.95" color="16711680" length="30" direction="3"/>
+    <TextMark x="1287" y="476" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：24点&#xD;色值：＃efa280"/>
+    <LengthMark x="1953" y="423" color="16711680" length="32" direction="3"/>
+    <LengthMark x="1980" y="655" color="16711680" length="32" direction="3"/>
+    <TextMark x="2011" y="416" color="16711680" offsetX="35" offsetY="19" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：28点&#xD;色值：＃0067be"/>
+    <TextMark x="2210" y="455" color="16711680" offsetX="37" offsetY="37" defaultDirection="9" direction="9" textMaxWidth="321" text="分割线：624*1px&#xD;色值：＃eceef2"/>
+    <TextMark x="2152" y="766" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：24点&#xD;色值：＃efa280"/>
+    <TextMark x="2028" y="1093" color="16711680" offsetX="35" offsetY="19" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：28点&#xD;色值：＃0067be"/>
+    <TextMark x="3991" y="495" color="16711680" offsetX="36" offsetY="36" defaultDirection="9" direction="9" textMaxWidth="205" text="样式内容和之前2.1版本的弹窗保持一致"/>
+    <LengthMark x="4782" y="462" color="16711680" length="30" direction="3"/>
+    <LengthMark x="4759" y="422" color="16711680" length="20" direction="3"/>
+    <TextMark x="3025" y="825" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="152" text="苹方 简 常规&#xD;字号：24点&#xD;色值：＃efa280"/>
+  </Marks>
+</MKM>

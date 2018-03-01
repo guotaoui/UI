@@ -1,0 +1,12 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="419" y="587" color="16711680" offsetX="71" offsetY="52" defaultDirection="9" direction="9" textMaxWidth="152" text="同【班级首页-没作业】"/>
+    <LengthMark x="339" y="587" color="16711680" length="50" direction="3"/>
+    <LengthMark x="358" y="694" color="16711680" length="40" direction="3"/>
+    <LengthMark x="340" y="764" color="16711680" length="20" direction="3"/>
+    <LengthMark x="342" y="809" color="16711680" length="50" direction="3"/>
+    <TextMark x="462" y="800" color="16711680" offsetX="43" offsetY="43" defaultDirection="9" direction="9" textMaxWidth="152" text="28px，系统普通，垂直投影2px，投影色值ffff99"/>
+    <TextMark x="422" y="658" color="16711680" offsetX="43" offsetY="43" defaultDirection="9" direction="9" textMaxWidth="152" text="60px，系统加粗，垂直投影2px，投影色值ffff99"/>
+    <TextMark x="450" y="745" color="16711680" offsetX="43" offsetY="43" defaultDirection="9" direction="9" textMaxWidth="152" text="34px，系统加粗，垂直投影2px，投影色值ffff99"/>
+  </Marks>
+</MKM>

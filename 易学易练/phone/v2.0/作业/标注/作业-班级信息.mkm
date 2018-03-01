@@ -1,0 +1,39 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="482" y="483" color="16711680" offsetX="104" offsetY="63" defaultDirection="9" direction="5" textMaxWidth="169" text="模块居中&#xD;模块背景同【出题-退出】"/>
+    <TextMark x="309" y="364" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="遮罩一样"/>
+    <LengthMark x="79" y="579" color="16711680" length="30" direction="12"/>
+    <LengthMark x="168" y="484" color="16711680" length="30" direction="3"/>
+    <LengthMark x="624" y="474" color="16711680" length="386" direction="3"/>
+    <LengthMark x="182" y="674" color="16711680" length="30" direction="3"/>
+    <LengthMark x="269" y="546" color="16711680" length="30" direction="12"/>
+    <LengthMark x="358" y="484" color="16711680" length="50" direction="3"/>
+    <LengthMark x="393" y="565" color="16711680" length="20" direction="3"/>
+    <LengthMark x="348" y="606" color="16711680" length="20" direction="3"/>
+    <LengthMark x="269" y="666" color="16711680" length="30" direction="12"/>
+    <LengthMark x="363" y="664" color="16711680" length="20" direction="12"/>
+    <LengthMark x="363" y="628" color="16711680" length="130" direction="12"/>
+    <LengthMark x="557" y="662" color="16711680" length="20" direction="12"/>
+    <LengthMark x="402" y="603" color="16711680" length="16" direction="12"/>
+    <LengthMark x="302" y="704" color="16711680" length="30" direction="3"/>
+    <LengthMark x="370" y="704" color="16711680" length="4" direction="3"/>
+    <LengthMark x="109" y="604" color="16711680" length="160" direction="12"/>
+    <LengthMark x="135" y="514" color="16711680" length="160" direction="3"/>
+    <TextMark x="114" y="525" color="16711680" offsetX="73" offsetY="63" defaultDirection="9" direction="9" textMaxWidth="100" text="圆角半径10px"/>
+    <LengthMark x="206" y="674" color="16711680" length="4" direction="3"/>
+    <ColorMark x="475" y="537" color="16711680" offsetX="19" offsetY="19" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="491" y="588" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="449" y="637" color="16711680" offsetX="34" offsetY="19" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="582" y="635" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="412" y="539" color="16711680" offsetX="115" offsetY="115" defaultDirection="9" direction="9" textMaxWidth="198" text="34px，系统加粗，垂直投影2px，投影色值ffff99"/>
+    <TextMark x="443" y="590" color="16711680" offsetX="207" offsetY="27" defaultDirection="9" direction="9" textMaxWidth="100" text="24px，系统普通，垂直投影2px，投影色值ffff99"/>
+    <ColorMark x="318" y="639" color="16711680" offsetX="72" offsetY="41" defaultDirection="10" colorSystem="hex"/>
+    <TextMark x="314" y="654" color="16711680" offsetX="101" offsetY="60" defaultDirection="10" direction="10" textMaxWidth="111" text="22px，系统普通"/>
+    <LengthMark x="493" y="642" color="16711680" length="64" direction="12"/>
+    <LengthMark x="481" y="626" color="16711680" length="36" direction="3"/>
+    <LengthMark x="82" y="484" color="16711680" length="220" direction="3"/>
+    <LengthMark x="112" y="474" color="16711680" length="10" direction="3"/>
+    <LengthMark x="69" y="839" color="16711680" length="612" direction="12"/>
+    <TextMark x="163" y="672" color="16711680" offsetX="20" offsetY="20" defaultDirection="6" direction="6" textMaxWidth="137" text="该阴影4px，垂直90度，色值e5c545，需要写在table下面 "/>
+  </Marks>
+</MKM>

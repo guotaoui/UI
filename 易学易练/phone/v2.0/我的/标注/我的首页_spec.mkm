@@ -1,0 +1,16 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <ColorMark x="313" y="282" color="16711680" offsetX="33" offsetY="21" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="258" y="510" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="235" y="632" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="235" y="756" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="203" y="909" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="199" y="1035" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="196" y="1185" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="202" y="1311" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="242" y="525" color="16711680" offsetX="88" offsetY="8" defaultDirection="10" direction="10" textMaxWidth="203" text="34px，系统加粗，垂直投影2px，投影色值ffff99"/>
+    <TextMark x="319" y="299" color="16711680" offsetX="46" offsetY="46" defaultDirection="10" direction="10" textMaxWidth="201" text="40px，系统加粗，垂直投影2px，投影色值ffff99"/>
+    <TextMark x="560" y="922" color="16711680" offsetX="127" offsetY="27" defaultDirection="5" direction="5" textMaxWidth="100" text="28px，系统普通，垂直投影2px，投影色值ffff99"/>
+    <LengthMark x="617" y="271" color="16711680" length="56" direction="3"/>
+  </Marks>
+</MKM>

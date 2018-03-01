@@ -1,0 +1,19 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="44" y="182" color="16711680" length="122" direction="3"/>
+    <LengthMark x="69" y="163" color="16711680" length="612" direction="12"/>
+    <LengthMark x="465" y="132" color="16711680" length="50" direction="3"/>
+    <LengthMark x="655" y="239" color="16711680" length="16" direction="12"/>
+    <LengthMark x="79" y="234" color="16711680" length="20" direction="12"/>
+    <LengthMark x="99" y="246" color="16711680" length="20" direction="12"/>
+    <LengthMark x="313" y="205" color="16711680" length="70" direction="3"/>
+    <LengthMark x="337" y="205" color="16711680" length="72" direction="3"/>
+    <LengthMark x="359" y="192" color="16711680" length="13" direction="3"/>
+    <LengthMark x="362" y="277" color="16711680" length="11" direction="3"/>
+    <LengthMark x="99" y="261" color="16711680" length="484" direction="12"/>
+    <LengthMark x="99" y="222" color="16711680" length="486" direction="12"/>
+    <ColorMark x="163" y="236" color="16711680" offsetX="29" offsetY="27" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="199" y="244" color="16711680" offsetX="75" offsetY="75" defaultDirection="10" direction="10" textMaxWidth="344" text="34px，系统加粗，垂直投影2px，投影色值bd8e00"/>
+    <TextMark x="639" y="66" color="16711680" offsetX="69" offsetY="31" defaultDirection="5" direction="5" textMaxWidth="169" text="同【选择地区-区县】"/>
+  </Marks>
+</MKM>
